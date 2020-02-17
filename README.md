@@ -1,3 +1,3 @@
-# TypeScript Next Boilerplate
+# TypeScript Next Material Boilerplate
 
-TypeScript Next Boilerplate
+TypeScript Next Boilerplate with Material UI

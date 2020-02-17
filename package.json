@@ -1,5 +1,5 @@
 {
-  "name": "ts-next-boilerplate",
+  "name": "ts-next-material-boilerplate",
   "version": "1.0.0",
   "description": "TypeScript Next Boilerplate",
   "scripts": {
@@ -11,15 +11,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BinPar/ts-next-boilerplate.git"
+    "url": "git+https://github.com/BinPar/ts-next-material-boilerplate.git"
   },
   "author": "Ignacio <nacho@binpar.com> (https://www.binpar.com/)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BinPar/ts-next-boilerplate/issues"
+    "url": "https://github.com/BinPar/ts-next-material-boilerplate/issues"
   },
-  "homepage": "https://github.com/BinPar/ts-next-boilerplate#readme",
+  "homepage": "https://github.com/BinPar/ts-next-material-boilerplate#readme",
   "dependencies": {
+    "@material-ui/core": "^4.9.3",
+    "@material-ui/icons": "^4.9.1",
     "@types/mocha": "^5.2.7",
     "next": "^9.0.6",
     "react": "^16.9.0",
